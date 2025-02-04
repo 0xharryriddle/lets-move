@@ -1,6 +1,6 @@
 ## Basic Information
 
-- Sui Wallet Address: `0x36b1c39074b0c5049e4a07729d9d5d1f249ca6fb7fabe3453dc93215689079ce`
+- Sui Wallet Address: `0x73e9692ce9cfc23e1e9461d22e2324e2472753bd8dd7979595e4be6fba389c06`
   > First-time participants must complete the registration of the wallet address through the first task to have it merged. You should use this address for subsequent tasks. We will also use this address to credit the learning rewards.
 - Github: `0xharryriddle`
 
@@ -16,10 +16,12 @@
 
 ### 01 hello move
 
-- [ ] Sui CLI Version:
-- [ ] Sui Wallet Screenshot: Link to image uploaded to `images` folder.
-- [ ] Package ID:
-- [ ] Package ID's Screenshot from Explorer: Link to image uploaded to `images` folder.
+- [x] Sui CLI Version: 1.41.1
+- [x] Sui Wallet Screenshot: Link to image uploaded to `images` folder. [link](./images/task_1_hello_move/task_1_wallet_address.png)
+      ![image](./images/task_1_hello_move/task_1_wallet_address.png)
+- [x] Package ID: 0x1213dccc33d88eebe85f4a0804f3c9a13293771e4c4ff25717de36821b0abc3f
+- [x] Package ID's Screenshot from Explorer: Link to image uploaded to `images` folder. [link](./images/task_1_hello_move/task_1_package.png)
+      ![image](./images/task_1_hello_move/task_1_package.png)
 
 ### 02 move coin
 
